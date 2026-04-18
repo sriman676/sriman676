@@ -16,6 +16,6 @@ This guy is a Computer Science student exploring cybersecurity and cloud computi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sriman676&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sriman676&icon=0&color=0)](https://portfolio-main-sooty-sigma.vercel.app/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
